@@ -1,6 +1,6 @@
 +++
 title = "📬 Contact"
-description = "Me contacter – Nicolas Boulard. Retrouvez mes informations de contact et mes réseaux professionnels (LinkedIn, GitHub, etc.)."
+description = "Connect with Nicolas Boulard – open to professional opportunities and collaboration in cloud, Kubernetes, and DevOps."
 date = "2025-08-27"
 aliases = ["contact", "contact-me", "get-in-touch"]
 author = "Nicolas Boulard"
