@@ -1,10 +1,10 @@
-+++
-title = "📬 Contact"
-description = "Connect with Nicolas Boulard – open to professional opportunities and collaboration in cloud, Kubernetes, and DevOps."
-date = "2025-08-27"
-aliases = ["contact", "contact-me", "get-in-touch"]
-author = "Nicolas Boulard"
-+++
+---
+title: "📬 Contact"
+description: "Connect with Nicolas Boulard – open to professional opportunities and collaboration in cloud, Kubernetes, and DevOps."
+date: "2025-08-27"
+aliases: ["contact", "contact-me", "get-in-touch"]
+author: "Nicolas Boulard"
+---
 
 If you’d like to **get in touch**, collaborate, or discuss **cloud infrastructure, Kubernetes, DevOps, or homelab projects**, feel free to reach out via my professional networks:  
 

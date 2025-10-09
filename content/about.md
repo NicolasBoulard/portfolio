@@ -1,12 +1,12 @@
-+++
-title = "👋 About me"
-description = "About Nicolas Boulard – Cloud Infrastructure Engineer in Grenoble & DevOps Specialist. Expert in Kubernetes, CI/CD, cloud-native infrastructure, and automation."
-date = "2025-08-27"
-aliases = ["about", "about-me"]
-author = "Nicolas Boulard"
-keywords = "devops grenoble,devops engineer grenoble,cloud engineer grenoble,kubernetes grenoble,freelance devops grenoble,cloud infrastructure engineer,devops,kubernetes engineer,ci/cd automation,infrastructure as code,terraform,packer,ansible,docker,gke,k3s,helm,gitlab ci,github actions,prometheus,grafana,security,iam,argo cd,python,go,bash,cloud-native,operators,kubernetes operators,mountaineering,climbing,mountain,sports,technology,innovation,personal blog,homelab"
-languageCode = "en-us"
-+++
+---
+title: "👋 About me"
+description: "About Nicolas Boulard – Cloud Infrastructure Engineer in Grenoble & DevOps Specialist. Expert in Kubernetes, CI/CD, cloud-native infrastructure, and automation."
+date: "2025-08-27"
+aliases: ["about", "about-me"]
+author: "Nicolas Boulard"
+keywords: "devops grenoble,devops engineer grenoble,cloud engineer grenoble,kubernetes grenoble,freelance devops grenoble,cloud infrastructure engineer,devops,kubernetes engineer,ci/cd automation,infrastructure as code,terraform,packer,ansible,docker,gke,k3s,helm,gitlab ci,github actions,prometheus,grafana,security,iam,argo cd,python,go,bash,cloud-native,operators,kubernetes operators,mountaineering,climbing,mountain,sports,technology,innovation,personal blog,homelab"
+languageCode: "en-us"
+---
 
 I am **Nicolas Boulard**, a **Cloud Infrastructure Engineer** and **DevOps Specialist based in Grenoble, France**, passionate about building and operating **cloud-native applications**, designing **scalable infrastructure**, and automating deployments through modern **CI/CD pipelines**.  
 
