@@ -1,14 +1,14 @@
 +++
 title = "👋 About me"
-description = "About Nicolas Boulard – Cloud Infrastructure Engineer & DevOps Specialist. Expert in Kubernetes, CI/CD, cloud-native infrastructure, and automation."
+description = "About Nicolas Boulard – Cloud Infrastructure Engineer in Grenoble & DevOps Specialist. Expert in Kubernetes, CI/CD, cloud-native infrastructure, and automation."
 date = "2025-08-27"
 aliases = ["about", "about-me"]
 author = "Nicolas Boulard"
-keywords = "cloud infrastructure engineer,devops,kubernetes engineer,ci/cd automation,infrastructure as code,terraform,packer,ansible,docker,gke,k3s,helm,gitlab ci,github actions,prometheus,grafana,security,iam,argo cd,traefik,cnpg,keycloak,longhorn,external-secrets,external-dns,cert-manager,python,go,bash,cloud-native,operators,kubernetes operators,mountaineering,climbing,mountain,sports,technology,innovation,personal blog,homelab"
+keywords = "devops grenoble,devops engineer grenoble,cloud engineer grenoble,kubernetes grenoble,freelance devops grenoble,cloud infrastructure engineer,devops,kubernetes engineer,ci/cd automation,infrastructure as code,terraform,packer,ansible,docker,gke,k3s,helm,gitlab ci,github actions,prometheus,grafana,security,iam,argo cd,python,go,bash,cloud-native,operators,kubernetes operators,mountaineering,climbing,mountain,sports,technology,innovation,personal blog,homelab"
 languageCode = "en-us"
 +++
 
-I am **Nicolas Boulard**, a **Cloud Infrastructure Engineer** and **DevOps Specialist** passionate about building and operating **cloud-native applications**, designing **scalable infrastructure**, and automating deployments through modern **CI/CD pipelines**.  
+I am **Nicolas Boulard**, a **Cloud Infrastructure Engineer** and **DevOps Specialist based in Grenoble, France**, passionate about building and operating **cloud-native applications**, designing **scalable infrastructure**, and automating deployments through modern **CI/CD pipelines**.  
 
 My focus is on creating **secure, highly available, and automated cloud environments** that empower developers, improve reliability, and follow **DevOps, SRE, and cloud-native best practices**.  
 
@@ -48,6 +48,18 @@ I believe in **innovation, automation, and reliability**. My work is guided by:
 - A strong sense of **ownership and continuous improvement**.  
 
 Outside of technology, I am deeply passionate about **mountains, climbing, and mountaineering** — activities that mirror the challenges and rewards of complex engineering projects, helping me stay focused, resilient, and balanced.  
+
+---
+
+## 🏅 Certifications  
+
+- **KCNA – Kubernetes and Cloud Native Associate** ✅  
+- **CKA – Certified Kubernetes Administrator** *(in progress)*  
+- **CKAD – Certified Kubernetes Application Developer** *(in progress)*  
+- **CKS – Certified Kubernetes Security Specialist** *(in progress)*  
+- **KCSA – Kubernetes and Cloud Security Associate** *(in progress)*  
+
+On the path to becoming a **Kubestronaut** 👨‍🚀, mastering every layer of the **Kubernetes certification journey**.
 
 ---
 
