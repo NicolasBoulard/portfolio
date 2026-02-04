@@ -55,9 +55,9 @@ Outside of technology, I am deeply passionate about **mountains, climbing, and m
 
 - **KCNA – Kubernetes and Cloud Native Associate** ✅  
 - **CKAD – Certified Kubernetes Application Developer** ✅
-- **CKA – Certified Kubernetes Administrator** *(in progress)*  
-- **CKS – Certified Kubernetes Security Specialist** *(in progress)*  
-- **KCSA – Kubernetes and Cloud Security Associate** *(in progress)*  
+- **CKA – Certified Kubernetes Administrator** ✅
+- **CKS – Certified Kubernetes Security Specialist** *(in progress)*
+- **KCSA – Kubernetes and Cloud Security Associate** *(in progress)*
 
 On the path to becoming a **Kubestronaut** 👨‍🚀, mastering every layer of the **Kubernetes certification journey**.
 
